@@ -5,6 +5,9 @@ Pi_Remote_IR is a python script that allows a raspberry pi to be controlled via 
 
 **Team members**: Simon Friedrichs, Aaron Zettler
 
+## Schematic
+![Schematic](http://m.uploadedit.com/bbtc/1579996047270.jpg)
+
 ## How to install
 To use this python script you have to configure your raspberry pi as followes. We used a **raspberry pi 3** with **"2019-04-08-raspbian-stretch"** but this should work for other setups as well.
   - connect to the pi via ssh, this is optional 
