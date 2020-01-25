@@ -1,5 +1,5 @@
 # Pi_Remote_IR
-[![Demo CountPages alpha](https://j.gifs.com/Qnmp7L.gif)](https://archive.org/embed/piremoteirlowres)
+[![Demo CountPages alpha](https://buffer.com/resources/wp-content/uploads/2016/06/giphy.gif)](https://archive.org/embed/piremoteirlowres)
 
 Pi_Remote_IR is a python script that allows a raspberry pi to be controlled via a IR-Remote. Whenn a specific button is pressed on the Remote (like button 0) the corresponging led will turn on and the name of the pressed button will be displayed on an OLED screen.  
 
