@@ -44,7 +44,7 @@ https://github.com/owainm713/IR-Remote-Receiver-Python-Module
 https://indibit.de/raspberry-pi-oled-display-128x64-mit-python-ansteuern-i2c/
 https://raspi.tv/2013/rpi-gpio-basics-5-setting-up-and-using-outputs-with-rpi-gpio
 
-## Things that didn't worke
+## Things that didn't work
 First we used lirc ([lirc_tutorial_1], [lirc_tutorial_2]) to receve IR siginals. After hours of problem solving we droped lric and found a better method. We will not describe this process in deteil because it didn't work but below are some of the things we tried. At this point we were using a **raspberry pi 4** with **"2019-09-26-raspbian-buster"**.
  - we installed lirc like described in the DIDNT_WORK.txt file of this repository.
  - we were receving data but we were not abele to generate a "propper" configuration file. We used this command to generate the configuration file.
