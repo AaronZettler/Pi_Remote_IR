@@ -54,7 +54,7 @@ First we used lirc ([lirc_tutorial_1], [lirc_tutorial_2]) to receve IR siginals.
    ```sh
    irrecord -d /dev/lirc0 ~/lircd.conf
    ```
- - because our configuration file looked like this, we tryed useing a **raspberry pi 3** with **"2019-04-08-raspbian-stretch"**.
+ - because our configuration file looked like this, we tried useing a **raspberry pi 3** with **"2019-04-08-raspbian-stretch"**.
  - at this point we were able to capture a "working" config file but we didnt receve any data when useing the following command.
    ```sh
    irw
